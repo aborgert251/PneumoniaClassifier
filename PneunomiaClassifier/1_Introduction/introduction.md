@@ -24,6 +24,6 @@ https://colab.research.google.com/
 In order to obtain suitable data for our problem, we use the "COVID-19 Xray Dataset (Train & Test Sets)" data set during the tasks. This data set is available under the CCO Public Domain License on the "Kaggle" platform. You also need an account to download it.
 Kaggle is also a good way to get to know and deepen the topic of "machine learning". There is a large community, courses to learn and competitions.
 
-Link to data set:
+Link to data set  
 https://www.kaggle.com/khoongweihao/covid19-xray-dataset-train-test-sets 
 
