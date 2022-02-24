@@ -12,12 +12,12 @@ André
 ## ℹUseful references / Prerequesites
 
 #### Python Cheatsheet
-Under the following link you will find a Python cheatcheet if you never worked with the programming language.
+Under the following link you will find a Python cheatcheet if you never worked with the programming language.  
 https://www.pythoncheatsheet.org/
 
 #### Google Colab
 To perform the tasks, a normal Python environment can be used, as well as a Jupyter notebook or Google Colab. However, Google Colab comes with some advantages, such as the fact that some needed dependencies are already installed and powerful graphics cards are provided. As a result, the training times are massively reduced. So we will use it.
-If you want to follow along in Google Colab you need to create a Google account. After registration, notebooks can be created under the following link.
+If you want to follow along in Google Colab you need to create a Google account. After registration, notebooks can be created under the following link.  
 https://colab.research.google.com/
 
 #### Dataset - Kaggle
