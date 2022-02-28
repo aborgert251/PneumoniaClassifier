@@ -12,12 +12,12 @@ Now you can install and import the necessary packages. We need python-opencv, te
 
 ## 📃The file structure
 -- dataset  
-	|-- train  
-		| -- NORMAL  
-		| -- PNEUNOMIA  
-	|-- test  
-		| -- NORMAL  
-		| -- PNEUNOMIA  
+> |-- train  
+>> | -- NORMAL  
+>> | -- PNEUNOMIA  
+> |-- test  
+>> | -- NORMAL  
+>> | -- PNEUNOMIA  
 
 
 #### ℹDisclaimer
