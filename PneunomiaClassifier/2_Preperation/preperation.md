@@ -17,7 +17,7 @@ Now you can install and import the necessary packages. We need python-opencv, te
 		| -- PNEUNOMIA  
 	|-- test  
 		| -- NORMAL  
-		| -- PNEUNOMI  
+		| -- PNEUNOMIA  
 
 
 #### ℹDisclaimer
