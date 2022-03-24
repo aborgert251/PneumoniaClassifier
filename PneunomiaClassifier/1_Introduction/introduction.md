@@ -5,6 +5,7 @@ This file is intended to introduce a little into the task and the specific probl
 Hey,  
 The COVID-19 pandemic is currently omnipresent and can lead to pneumonia. Therefore, our task is to analyze X-ray images and automatically predict whether the patient is suffering from pneumonia or not. For this we will need Python, Tensorflow, Keras and our "machine learning" skills. We will develop within Google Colab.
 But in order to start and continue in the 2nd step "Preparation" it is important that you first set up the requirements listed below and download the dataset.
+I´ve written the code already so that your task is to play with the values and try to understand it.
 
 Have fun,  
 André

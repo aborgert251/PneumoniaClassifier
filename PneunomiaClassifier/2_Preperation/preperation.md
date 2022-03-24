@@ -7,8 +7,8 @@ The first task is to upload the data set as a .zip archive and then to unpack it
   
 ⚠ Google Colab saves all uploaded files under /content/
 
-### 2. Install the needed dependencies
-Now you can install and import the necessary packages. We need python-opencv, tensorflow (tf), numpy (np), matplotlib (plt), os and keras. Note that some dependencies need to be installed with pip, while others are native Python packages. Use the "import ... as ..." syntax to abbreviate the imports to the names in the brackets if there is one. 
+### 2. Try to run the notebook
+Now you should be able to run the notebook step by step. Be aware of that you need to run every code block that you have changed and the blocks where it is used again to compile.
 
 ## 📃The file structure
 |-- dataset  
